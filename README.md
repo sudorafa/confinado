@@ -1,4 +1,5 @@
-# Sistema de Confinado (registros de entradas/saídas de produtos pelo código de barras)
+# Sistema de Confinado
+(registros de entradas/saídas de produtos pelo código de barras)
 Solução finalizada em 30 de Setembro de 2016.
 
 •	Sistema para manter estoque de um confinado ou qualquer setor que manipula entrada/saída de produtos usando cód. de barras.
